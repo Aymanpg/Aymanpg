@@ -1,3 +1,4 @@
+![Aymanur Rahman - Banner](https://github.com/Aymanpg/Aymanpg/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Aymanur Rahman</h1>
 <h3 align="center">Frontend-Focused CSE Student | Aspiring AI & Data Science Engineer</h3>
 
@@ -78,12 +79,11 @@ I'm a **Computer Science and Engineering** undergraduate at **American Internati
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aymanpg&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" width="48%"/>
+ 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aymanpg&theme=tokyonight&hide_border=true&border_radius=10" alt="Streak Stats" width="48%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aymanpg&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=css,html" alt="Top Languages" width="48%"/>
+
 </p>
 
 ---
